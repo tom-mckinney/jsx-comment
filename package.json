@@ -2,14 +2,14 @@
   "name": "jsx-comment",
   "main": "./lib/jsx-comment",
   "version": "0.1.0",
-  "description": "Keyboard shortcut for JSX comments in Atom",
+  "description": "JSX style comments and block comments",
   "keywords": [
-    "jsx-comment", "JSX", "comment", "React"
+    "jsx", "comment", "block comment", "React"
   ],
   "activationCommands": {
     "atom-workspace": "jsx-comment:toggleComment"
   },
-  "repository": "https://github.com/atom/jsx-comment",
+  "repository": "https://github.com/digitalsaurus/jsx-comment",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
