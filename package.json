@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": ["jsx-comment:toggle", "jsx-comment:toggleComment"]
+    "atom-workspace": "jsx-comment:toggleComment"
   },
   "repository": "https://github.com/atom/jsx-comment",
   "license": "MIT",
