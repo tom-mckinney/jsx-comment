@@ -1,10 +1,13 @@
 {
   "name": "jsx-comment",
   "main": "./lib/jsx-comment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JSX style comments and block comments",
   "keywords": [
-    "jsx", "comment", "block comment", "React"
+    "jsx",
+    "comment",
+    "block comment",
+    "React"
   ],
   "activationCommands": {
     "atom-workspace": "jsx-comment:toggleComment"
@@ -14,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
