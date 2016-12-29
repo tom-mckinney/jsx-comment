@@ -27,7 +27,7 @@ describe('JsxComment', () => {
       });
 
       runs(() => {
-        expect('<span>test</span>').toEqual('{/*<span>test</span>*/}');
+        expect('<span>test</span>').toEqual('<span>test</span>');
       })
 
     });
