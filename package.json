@@ -1,9 +1,10 @@
 {
   "name": "jsx-comment",
   "main": "./lib/jsx-comment",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "A simple keyboard shortcut for JSX comments in Atom",
   "keywords": [
+    "jsx-comment", "JSX", "comment", "React"
   ],
   "activationCommands": {
     "atom-workspace": "jsx-comment:toggleComment"
